@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Aditya😃
 
-<!--
-**aftex261/aftex261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://i.ibb.co/FYGqYH7/droidtocat.png" alt="droidtocat" border="0" height="300" width="300">
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Machine Learning and Software Engineering Projects
+- 🌱 I’m currently learning Computer Science and Engineering
+- 👯 I’m looking to collaborate on Community Empowerment 
+- 💬 Ask me about : Python Programming and Machine Learning
+- 📫 How to reach me: https://www.linkedin.com/in/aditya-g-205674193/
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
